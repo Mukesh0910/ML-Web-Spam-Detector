@@ -25,9 +25,3 @@ Follow these steps to get the project up and running on your local machine.
 * Python 3.12.9 (or newer)
 * pip (Python package installer)
 * Git
-
-### 1. Clone the Repository (Once pushed to GitHub)
-
-```bash
-git clone <YOUR_GITHUB_REPO_URL_HERE>
-cd spam_classifier
